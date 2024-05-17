@@ -38,7 +38,7 @@ Caso tudo tenha ocorrido conforme esperado o resultado pode ser visto no navegad
 
 Através da URL http://127.0.0.1:8000/docs é possível fazer as chamadas aos endpoints
 
-### 4. Será necessário subir um rede local blockchain.<br>Para isto pode ser usado o projeto no github abaixo:
+### 4. Será necessário subir uma rede local blockchain.<br>Para isto pode ser usado o projeto no github abaixo:
 
 https://github.com/danpatrocinio/hardhat-hello-world
 
