@@ -15,7 +15,7 @@ python -m venv venv/
 source venv/bin/activate
 ```
 
-Obs.: Para encerrar o ambiente (recomendado após finalizar o uso):
+Importante! Para encerrar o ambiente (recomendado após finalizar o uso):
 
 ```sh
 deactivate
@@ -33,4 +33,10 @@ pip install -r requirements.txt
 fastapi dev src/api/main.py
 ```
 
-Obs.: Caso tudo tenha ocorrido conforme esperado o resultado pode ser visto no navegador nas urls: http://127.0.0.1:8000 ou http://127.0.0.1:8000/docs
+---
+Caso tudo tenha ocorrido conforme esperado o resultado pode ser visto no navegador nas urls: http://127.0.0.1:8000 ou http://127.0.0.1:8000/docs
+
+### 4. Será necessário subir um rede local blockchain.<br>Para isto pode ser usado o projeto no github abaixo:
+
+https://github.com/danpatrocinio/hardhat-hello-world
+
